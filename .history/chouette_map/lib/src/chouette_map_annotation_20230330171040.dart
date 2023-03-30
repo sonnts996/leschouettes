@@ -1,0 +1,3 @@
+class OuOAnotation {
+  const OuOAnotation();
+}
